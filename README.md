@@ -2,4 +2,4 @@
 
 **Data visualisation portfolio & more**: [CormacKinsella.github.io](https://CormacKinsella.github.io)
 
-`Bash` `Python` `Nextflow` `R` `Genomics & metagenomics` `NGS` `High-performance computing`
+`Nextflow` `High-performance computing` `Reproducible research`
